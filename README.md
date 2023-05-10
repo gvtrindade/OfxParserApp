@@ -1,3 +1,3 @@
-# OfxParserApp
+# OFX para CSV
 
-Python app to parse your ofx into csv
+App em python para conversão de arquivos OFX para CSV
